@@ -1,0 +1,8 @@
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\dao\bin\Debug\dao.dll
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\dao\bin\Debug\dao.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\dao\bin\Debug\model.dll
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\dao\bin\Debug\MySql.Data.dll
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\dao\bin\Debug\model.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\dao\obj\Debug\dao.dll
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\dao\obj\Debug\dao.pdb

@@ -1,0 +1,17 @@
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\bin\Debug\TelaDeLogin.exe.config
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\bin\Debug\TelaDeLogin.exe
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\bin\Debug\TelaDeLogin.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\bin\Debug\controller.dll
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\bin\Debug\model.dll
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\bin\Debug\dao.dll
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\bin\Debug\MySql.Data.dll
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\bin\Debug\controller.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\bin\Debug\model.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\bin\Debug\dao.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\obj\Debug\view.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.LoginView.resources
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.MenuView.resources
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.Properties.Resources.resources
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\obj\Debug\view.csproj.GenerateResource.Cache
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.exe
+c:\users\felipe\documents\visual studio 2015\Projects\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.pdb
